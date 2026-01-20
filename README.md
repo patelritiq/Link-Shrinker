@@ -29,7 +29,10 @@ This is a web application that provides a user-friendly interface for shortening
 
 ### Installation
 
-To run the application, simply run the `app.py` file in a modern web browser.
+1. Clone the repository
+2. Install required dependencies: `pip install flask bcrypt`
+3. Run the application: `python app.py`
+4. Open your browser and navigate to `http://localhost:5000`
 
 ### Usage
 
@@ -37,15 +40,13 @@ To run the application, simply run the `app.py` file in a modern web browser.
 2. Log in or register to access the link management features.
 3. Use the dashboard to view and manage your shortened links.
 
-**Contributing**
----------------
+**Acknowledgments**
+------------------
 
-If you'd like to contribute to the application, please fork the repository and submit a pull request with your changes.
+* **Frontend Development**: Special thanks to [Pranjal Kumar Dwivedi](https://github.com/dps-broken) for his valuable assistance with the frontend design and user interface components.
+
 
 **License**
 ---------
 
 This application is licensed under the MIT License.
-
-
-
