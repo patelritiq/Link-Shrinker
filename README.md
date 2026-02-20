@@ -1,3 +1,11 @@
+> **⚠️ This repository has been archived and moved.**
+> 
+> This project is now part of the comprehensive [CodeClause-Internship-Projects](https://github.com/patelritiq/CodeClause-Internship-Projects) repository.
+> 
+> Please visit the new repository for the latest version and all CodeClause internship projects.
+
+
+
 # Link Shrinkr
 ## An Advanced URL Shortener with Analytics
 
